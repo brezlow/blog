@@ -1,3 +1,5 @@
+node_modules
+
 # build output
 dist/
 
@@ -21,3 +23,7 @@ pnpm-debug.log*
 .DS_Store
 
 .vercel
+
+package-lock.json
+bun.lockb
+yarn.lock
